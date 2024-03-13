@@ -6,13 +6,16 @@
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<Title>LanguageTransform</Title>
 		<Description>The Library that contains Language Transform</Description>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<Authors>SKJonko</Authors>
 		<Copyright>Copyright © 2024</Copyright>
 		<RepositoryUrl>https://github.com/SkJonko/LanguageTransform</RepositoryUrl> 
 		<RepositoryType>git</RepositoryType> 
         <PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageReleaseNotes>
+1.0.1
+- Feature: Change name of functions.
+
 1.0.0
 - Feature: Add functionality to use ELOT743 to Transform Greeklish to Greek.
 		</PackageReleaseNotes>
