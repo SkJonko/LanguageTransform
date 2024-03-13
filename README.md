@@ -19,7 +19,7 @@ This static service is used to implement the functionality of transformation fro
 This function Returns you the Greek string of Greeklish value.
 
 ```
-_GreekToGreeklish_(string source, bool firstLetterUpper)
+GreekToGreeklish(string source, bool firstLetterUpper)
 ```
 
 **Explanation of Parameters**
