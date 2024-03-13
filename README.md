@@ -15,8 +15,7 @@
 
 This static service is used to implement the functionality of transformation from each language.
 
-***
-## _GreekToGreeklish_
+## GreekToGreeklish
 This function Returns you the Greek string of Greeklish value.
 
 ```
