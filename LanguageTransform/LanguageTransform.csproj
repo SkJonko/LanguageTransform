@@ -9,6 +9,8 @@
 		<Version>1.0.0</Version>
 		<Authors>SKJonko</Authors>
 		<Copyright>Copyright © 2023-2024</Copyright>
+		<RepositoryUrl>https://github.com/SkJonko/LanguageTransform</RepositoryUrl> 
+		<RepositoryType>git</RepositoryType> 
         <PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageReleaseNotes>
 1.0.0
