@@ -3,6 +3,13 @@
 <details>
     <summary>Version</summary>
 
+    
+# [1.0.1] - 20/03/2024
+
+**Features** 
+
+* Change name of functions.
+ 
 # [1.0.0] - 13/03/2024
 
 **Features**
